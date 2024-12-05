@@ -1,0 +1,7 @@
+fastapi
+pydantic_settings
+pydantic[email]
+mangum
+pytest
+uvicorn
+boto3
